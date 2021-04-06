@@ -1,7 +1,7 @@
 #include <Arduino.h>
 #include "Timer.h"
 
-Timer timer(1000);
+Timer timer(500);
 
 
 int ledPin = 13;
